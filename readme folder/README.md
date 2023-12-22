@@ -9,3 +9,5 @@ It has several functionality:
     - if the current hour of the user is the same as the box's set hour, then the box will turn to the color red indicating that it is the present.
     - if the current hour of the user haven't past the box's set hour, then the box will turn to the color green indicating that it is the future.
 3. The app can tell the current year, month, and date of the user.
+
+## Link to the deployed app: https://johnnnnnnnnnnnnnnnnnnnnnn.github.io/Challange-5-Daily-Scheduler/
